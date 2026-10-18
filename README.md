@@ -13,3 +13,5 @@ Purpose
 This repository is created for my Week 11 GitHub Basics activity. It demonstrates the use of Git and GitHub for source code management, commits, branching, merging, cloning, and synchronization.
 
 Author: chantreaelara
+
+Final demonstration update for the midterm source files.
