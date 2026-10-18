@@ -15,3 +15,4 @@ This repository is created for my Week 11 GitHub Basics activity. It demonstrate
 Author: chantreaelara
 
 Final demonstration update for the midterm source files.
+This line demonstrates branching and merging in Git.
